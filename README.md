@@ -12,3 +12,15 @@
 <h3 align="left">Leetcode:</h3>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/JolIyRoger?theme=nord&font=baloo&extension=null)
+
+<h3 align="left">Github statistics:</h3>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JolIyRoger&theme=merko&background=000000" alt="JolIyRoger" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="JolIyRoger" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JolIyRoger&theme=merko&background=000000" />
+    </td>
+  </tr>
+</table>
