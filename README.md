@@ -25,6 +25,4 @@
   </tr>
 </table>
 
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolIyRoger&size_weight=0.0005&count_weight=0.3&layout=compact&theme=merko">
-</p>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JolIyRoger&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
