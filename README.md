@@ -9,4 +9,5 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly"  alt="plotly" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib"  alt="matplotlib" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit"  alt="streamlit" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> 
 
+<h3 align="left">Leetcode:</h3>
 ![LeetCode Stats](https://leetcode.card.workers.dev/JolIyRoger?theme=nord&font=baloo&extension=null)
