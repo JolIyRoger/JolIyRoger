@@ -14,15 +14,7 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/JolIyRoger?theme=nord&font=baloo&extension=null)
 
 <h3 align="left">Github statistics:</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JolIyRoger&theme=merko&background=000000" alt="JolIyRoger" />
-    </td>
-    <td>
-      <img height="195px" alt="JolIyRoger" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JolIyRoger&theme=merko&background=000000" />
-    </td>
-  </tr>
-</table>
 
+![](https://github-readme-streak-stats.herokuapp.com/api?username=JolIyRoger&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JolIyRoger&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JolIyRoger&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
