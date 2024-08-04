@@ -15,8 +15,16 @@
 
 <h3 align="left">Github statistics:</h3>
 
-<img height="195px" alt="JolIyRoger" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JolIyRoger&theme=merko" />
+<img height="195px" alt="JolIyRoger" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JolIyRoger&theme=merko&background=000000" />
 
 ![](https://github-readme-streak-stats.herokuapp.com/api?username=JolIyRoger&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JolIyRoger&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JolIyRoger&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=JolIyRoger&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
