@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ivan</h1>
-<h3>self-taught data engineer</h3>
+<h2>I work with data and everything related to it as a data engineer</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 
