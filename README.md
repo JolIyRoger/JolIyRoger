@@ -16,7 +16,6 @@
 
 <h3 align="left">Github statistics:</h3>
 
-
 ---
 
   
@@ -35,7 +34,6 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolIyRoger&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
-
 
 
 <div id="header" align="center">
