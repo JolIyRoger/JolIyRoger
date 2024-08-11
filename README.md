@@ -1,5 +1,5 @@
 <h1>Hi! 👋</h1>
-</h3>I'm Ivan, an aspiring Data Engineer passionate about the world of data and technology. 🚀 Welcome to my digital space, where data comes to life! ✨</h3>
+<h3>I'm Ivan, an aspiring Data Engineer passionate about the world of data and technology. 🚀 Welcome to my digital space, where data comes to life! ✨</h3>
 
 ---
 
